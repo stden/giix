@@ -9,7 +9,7 @@
  * @license http://giix.org/license/ New BSD License
  */
 Yii::import('system.gii.generators.crud.CrudCode');
-Yii::import('ext.giix-core.helpers.*');
+Yii::import('ext.giix.giix-core.helpers.*');
 
 /**
  * GiixCrudCode is the model for giix crud generator.
